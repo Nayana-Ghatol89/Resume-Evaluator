@@ -2,7 +2,18 @@
 A Streamlit app that scores resume, detects skills, suggests job roles and skill gaps, and answers questions about the uploaded resume.
 ## Features
 - Upload Resumes as PDF or DOCX.
-![Churn Overview](churn-overview.png) 
+![Resume-evaluator Overview](Resume-evaluator.png)
+
+![Resume-evaluator Overview](Resume-evaluator1.png) 
+
+![Resume-evaluator Overview](Resume-evaluator2.png) 
+
+![Resume-evaluator Overview](Resume-evaluator3.png) 
+
+![Resume-evaluator Overview](Resume-evaluator4.png) 
+
+![Resume-evaluator Overview](Resume-evaluator5.png) 
+
 ## Tools Used
 - Python for the application logic.
 - Streamlit — web app interface and interactions
