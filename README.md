@@ -1,5 +1,5 @@
 # Resume-Evaluator
-A Streamlit app that scores resume, detects skills, suggests job roles and skill gaps, and answers questions about the uploaded resume.
+A Streamlit app that scores uploaded resumes, detects skills, suggests job roles, identifies skill gaps, and answers questions about resume content.
 ## Features
 - Upload Resumes as PDF or DOCX.
 - Accepts resumes in PDF and DOCX formats and extracts their text.
