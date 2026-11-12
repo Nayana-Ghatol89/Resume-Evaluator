@@ -7,7 +7,16 @@ A Streamlit app that scores uploaded resumes, detects skills, suggests job roles
 - Provides a resume score and suggestions for improvement.
 - Recommends suitable job roles and compares resume skills against role requirements.
 - Highlights skill gaps and offers role-focused suggestions.
-- Includes a chat-style assistant for questions about the uploaded resume
+- Includes a chat-style assistant for questions about the uploaded resume 
+## Tools Used
+- Python for the application logic.
+- Streamlit — web app interface and interactions
+- pypdf — PDF text extraction
+- python-docx — DOCX text extraction
+- Python standard library: io, re, and datetime
+- HTML/CSS and Google Fonts — custom styling
+## How to Run
+- python -m streamlit run Validator_code.py 
   
 ![Resume-evaluator Overview](Resume-evaluator.png)
 
@@ -21,12 +30,3 @@ A Streamlit app that scores uploaded resumes, detects skills, suggests job roles
 
 ![Resume-evaluator Overview](Resume-evaluator5.png) 
 
-## Tools Used
-- Python for the application logic.
-- Streamlit — web app interface and interactions
-- pypdf — PDF text extraction
-- python-docx — DOCX text extraction
-- Python standard library: io, re, and datetime
-- HTML/CSS and Google Fonts — custom styling
-## How to Run
-- python -m streamlit run Validator_code.py 
