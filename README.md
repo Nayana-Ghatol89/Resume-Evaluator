@@ -16,7 +16,8 @@ A Streamlit app that scores uploaded resumes, detects skills, suggests job roles
 - Python standard library (io, re, and datetime) — supports file handling, text processing, and date operations.
 - HTML, CSS, and Google Fonts — provide custom styling.
 ## How to Run
-- python -m streamlit run Validator_code.py 
+- python -m streamlit run Validator_code.py
+## Output
   
 ![Resume-evaluator Overview](Resume-evaluator.png)
 
